@@ -1,6 +1,6 @@
 :root {
 	--primary: #09F;
-	--text: rgb(255,215,0);
+	--text: rgb(215,185,0);
 	--background: rgb(41, 42, 49);
 	--background-elevated: rgb(41, 42, 49);
 	--color-highlight: rgb(43, 107, 149);
@@ -10,10 +10,10 @@
 	--background-light: #AAA;
 	--background-bright: #FFF;
 
-	--border-dim: #666;
-	--border-bright: rgb(85, 85, 85);
+	--border-dim: #444;
+	--border-bright: rgb(100, 100, 100);
 
-	--text-bright: #FFF;
+	--text-bright: rgb(255, 215, 0);
 	--text-special: var(--primary);
 	--text-grey: #FFF;
 
