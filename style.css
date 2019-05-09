@@ -15,7 +15,7 @@
 
 	--text-bright: rgb(255, 215, 0);
 	--text-special: var(--primary);
-	--text-grey: #000;
+	--text-grey: rgb(185,145,0);;
 
 	--scrollbar-background: rgb(120, 120, 120);
 	--scrollbar-border: rgb(120, 120, 120);
